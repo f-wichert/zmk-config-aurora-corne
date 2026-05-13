@@ -100,7 +100,7 @@
      //,-----------------------------------------------------.                    ,-----------------------------------------------------.
        &kp GRAVE &kp EXCL   &kp AT &kp HASH &kp DLLR &kp PRCNT                     &kp CARET &kp AMPS &kp STAR  &trans   &trans   &trans
      //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-          &trans   &trans   &trans   &trans &trans &trans            &kp LEFT &kp DOWN   &kp UP &kp RIGHT  &trans &kp BSLH
+          &trans   &trans   &trans   &kp LC(LS(TAB)) &kp LC(TAB) &trans            &kp LEFT &kp DOWN   &kp UP &kp RIGHT  &trans &kp BSLH
      //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
           &trans   &trans   &trans   &trans   &trans   &trans                        &trans   &trans   &trans   &trans   &trans   &trans
      //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
